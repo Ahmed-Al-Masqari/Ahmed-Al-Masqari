@@ -1,89 +1,146 @@
 
-<h1 align="center">Hi, I'm Ahmed Al-Masqari 👋</h1>
+<h1 align="center">Ahmed Al-Masqari</h1>
 
 <h3 align="center">
   Software Developer | Flutter & Android | Python | AI & Data Science
 </h3>
 
 <p align="center">
-  Building practical software solutions through clean code,
-  thoughtful architecture, and continuous learning.
+  Designing and building practical software solutions
+  with a focus on quality, architecture, and innovation.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ahmed-Al-Masqari">
+    GitHub Profile
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me | نبذة عني
 
-I'm a software developer interested in building reliable, maintainable, and user-focused applications.
+### 🇬🇧 English
 
-My work and learning interests span mobile and desktop application development, backend systems, data analysis, and applied machine learning.
+I am a software developer focused on designing, developing, and improving software applications and technical solutions.
 
-- 📱 Interested in cross-platform and native application development.
-- 🐍 Working with Python for automation, data analysis, and machine learning.
-- 🧠 Exploring AI and data-driven solutions to practical problems.
-- 🏗️ Interested in software architecture, code quality, and maintainability.
-- 🌍 Based in Yemen.
+My interests and professional work span mobile and desktop application development, software engineering, data processing, and applied artificial intelligence.
 
-## 🛠️ Technologies & Tools
+I value clean code, maintainable architecture, practical problem-solving, and building software that addresses real-world needs.
 
-**Languages**
+### 🇸🇦 العربية
+
+أنا أحمد المسقري، مطور برمجيات وتطبيقات، أهتم بتصميم وتطوير الأنظمة والحلول التقنية، مع التركيز على جودة البرمجيات وهندستها وقابلية تطويرها وصيانتها.
+
+تشمل مجالات عملي واهتماماتي تطوير تطبيقات الهواتف والأجهزة المكتبية، وبرمجة الأنظمة باستخدام Python، ومعالجة البيانات وتحليلها، واستكشاف تطبيقات الذكاء الاصطناعي والتعلم الآلي.
+
+أهتم بتحليل متطلبات المشاريع، وتصميم البنية البرمجية المناسبة، وتطوير حلول عملية تلبي احتياجات المستخدمين، مع الحرص على جودة الكود والاختبار والتوثيق.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Dart
 - Python
 - Java
 - SQL
 
-**Development**
+### Application Development
 - Flutter
 - Android Development
-- FastAPI
-- REST APIs
+- Desktop Applications
+- REST API Integration
 - SQLite
+- Firebase
 
-**Data & AI**
+### Data Science & Artificial Intelligence
 - Pandas
 - NumPy
 - Scikit-learn
-- Machine Learning
 - Data Analysis
+- Machine Learning
+- Data Processing
 
-**Tools**
-- Git & GitHub
+### Software Engineering
+- Software Architecture
+- Clean Code
+- Database Design
+- Debugging & Troubleshooting
+- Software Testing
+- Technical Documentation
+
+### Development Tools
+- Git
+- GitHub
 - Android Studio
-- PyCharm
 - VS Code
-- Firebase
+- PyCharm
 
-## 🚀 Areas of Interest
+---
 
-- Offline-first applications
-- Business and productivity software
-- Mobile and desktop application development
-- Backend development and API integration
-- Data analysis and machine learning
-- Software testing and code quality
+## 🚀 Areas of Expertise & Interest
 
-## 📌 Selected Areas of Work
+- Mobile and cross-platform application development.
+- Business management and productivity systems.
+- Offline-first applications and local database solutions.
+- Python development and automation.
+- Data analysis and machine learning applications.
+- Software architecture and application optimization.
+- Code review and software quality improvement.
 
-- **Business Applications:** Exploring offline-first systems, local databases, and business workflows.
-- **Educational Software:** Developing tools and ideas that simplify examination preparation and management.
-- **Agricultural Data Science:** Working with public agricultural datasets and machine learning experiments.
-- **AI-powered Solutions:** Exploring practical applications of AI and intelligent automation.
+---
 
-*Some professional projects are subject to client confidentiality and are therefore not published publicly.*
+## 💼 Selected Project Domains
 
-## 📚 Currently Learning & Improving
+My development experience and project interests include:
 
-- Advanced Flutter architecture and application performance.
-- Python for data engineering and machine learning.
-- Software engineering best practices.
-- AI applications and model evaluation.
+**Business & Management Systems**
+- Sales and inventory management.
+- Business workflow automation.
+- Database-driven applications.
 
-## 🤝 Connect
+**Educational Applications**
+- Examination management systems.
+- Question bank management.
+- Document and PDF generation.
 
-- GitHub: [Ahmed-Al-Masqari](https://github.com/Ahmed-Al-Masqari)
+**Data Science & AI**
+- Agricultural data analysis.
+- Predictive modeling.
+- Machine learning experiments.
+
+**Software Engineering**
+- Application architecture.
+- Code quality assessment.
+- Performance and maintainability improvements.
+
+*Some projects are confidential and cannot be publicly shared due to client agreements.*
+
+---
+
+## 📚 Continuous Learning
+
+I continuously work on improving my skills in:
+
+- Advanced Flutter development.
+- Python and data engineering.
+- Machine learning and applied AI.
+- Software architecture and design patterns.
+- Application performance and reliability.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Ahmed-Al-Masqari">
+    GitHub
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>Building, learning, improving — one project at a time.</i>
+  <i>Building meaningful solutions through engineering, learning, and innovation.</i>
 </p>
