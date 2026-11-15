@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Ahmed Al-Masqari - Software Engineer">
+</p>
 
 <h1 align="center">Ahmed Al-Masqari</h1>
 
